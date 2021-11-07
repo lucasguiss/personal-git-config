@@ -1,0 +1,1 @@
+mv .gitconfig /home/${USER}/.gitconfig
