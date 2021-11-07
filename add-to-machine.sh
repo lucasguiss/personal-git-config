@@ -1,1 +1,1 @@
-mv .gitconfig /home/${USER}/.gitconfig
+cp .gitconfig /home/${USER}/.gitconfig
